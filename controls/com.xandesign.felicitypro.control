@@ -1,0 +1,11 @@
+Package: com.xandesign.felicitypro
+Section: Themes
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Architecture: iphoneos-arm64
+Version: 4.1
+Replaces: com.xandesign.felicitypro (= 3.3)
+Description: a more colorful & detailed look for iOS
+Name: Felicity Pro
+Homepage: https://twitter.com/xerusdesign
+Author: XerusDesign <unixdesignios@gmail.com>
+

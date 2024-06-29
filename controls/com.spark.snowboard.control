@@ -1,0 +1,14 @@
+Package: com.spark.snowboard
+Section: Tweaks
+Installed-Size: 3236
+Maintainer: Spark
+Architecture: iphoneos-arm64
+Version: 1.5.26-Beta4-rootless
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+

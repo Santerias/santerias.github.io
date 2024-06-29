@@ -1,0 +1,18 @@
+Origin: Santeria
+Label: Santeria
+Suite: stable
+Version: 1.0
+Codename: SanteriaRepo
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Santeria's Personal Repo
+MD5Sum:
+ 19a50f65587bd9631f945d06d9b526b2 7699 Packages
+ fba25e249f337d456bf562bbbd922a53 3071 Packages.bz2
+ 5df575e69bfcafd9617a75d46715a83f 2957 Packages.gz
+ a0d55eb019c16d2829e1d89fd0369778 2885 Packages.zst
+SHA256:
+ cf5c6871c8f122a2b35847a228d0f65818c35e1274deb79f4244e21791108742 7699 Packages
+ 53d9dc99e16544402e7a4561b3f0deb8f08b8d7eb0abf015185e6b03300e50d5 3071 Packages.bz2
+ 11802b6a65a41ecd45424d8ccf0b71e8b7aa0cbd4b7cdccbb25fa707c07f1ca0 2957 Packages.gz
+ a0f627ba81308d7eae0c895b8d765ef699b7bdc1bb00675d16b153f671429e88 2885 Packages.zst

@@ -1,0 +1,19 @@
+Package: com.opa334.ccsupport
+Section: Tweaks
+Installed-Size: 489
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64
+Version: 1.3.13-2
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Description: Support tweak for CC modules!
+Author: opa334 <opa334@protonmail.com>
+Name: CCSupport
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+

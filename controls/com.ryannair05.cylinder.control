@@ -1,0 +1,14 @@
+Package: com.ryannair05.cylinder
+Section: Tweaks
+Installed-Size: 1123
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Description: Make your icons dance
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
+Tag: compatible_min::ios11.0
+

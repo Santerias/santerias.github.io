@@ -1,0 +1,15 @@
+Package: com.noisyflake.velvet2
+Section: Tweaks
+Installed-Size: 629
+Maintainer: NoisyFlake <support@noisyflake.com>
+Architecture: iphoneos-arm64
+Version: 2.1.2-3
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Description: A fully customizable notification experience
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Depiction: https://chariz.com/get/velvet-2
+Tag: compatible_min::ios15.0
+

@@ -1,0 +1,206 @@
+Package: com.hoangdus.speedster
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Hoangdus
+Installed-Size: 380
+Depends: firmware (>= 13.0)
+Filename: debs/com.hoangdus.speedster.deb
+Size: 51934
+MD5sum: ffde2b4de73cfdfa251b7a05d75254f0
+SHA1: 43697b87ce66aa43dc98271ed6fa86d5000febc8
+SHA256: 53c8c0e5dc5e002e30bf99d0d563cf694b16ba204a5f670e39c14495f5cd9faa
+Section: Tweaks
+Description: Faster iOS animation.
+Author: Hoangdus
+Name: Speedster
+
+Package: com.icraze.keepmyjb
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.icraze.keepmyjb.deb
+Size: 4092
+MD5sum: 95fc7432f041bb6a02c386a4467d75b8
+SHA1: 2b5e780b8a7e56f91d22d3099b737a19969b2181
+SHA256: 9d0ab51a12db39f37baa00c66923544645df179cfbf97683bd03248450347a50
+Section: Tweaks
+Description: Remove the "Software Update" and "Erase All Content And Settings" tabs in the Settings app
+Author: iCraze
+Name: KeepMyJB
+
+Package: com.nightwind.boldersreborn
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5808
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
+Filename: debs/com.nightwind.boldersreborn.deb
+Size: 5068392
+MD5sum: ac02d7ea57f5c3f65161d4ef1d2308eb
+SHA1: df04d34906d283973dfecf2129fb5178ad62e4c3
+SHA256: 9cd2a34100c056831c0f12ce83efb12c56fb81a02d21cca2ea73b1c958958b6a
+Section: Tweaks
+Description: Bigger and bolder folders, remade!
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/boldersreborn
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Name: Bolders Reborn
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-3
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: debs/com.noisyflake.velvet2.deb
+Size: 157384
+MD5sum: 1399431b6fd7e1b27857efb674012ad6
+SHA1: 7354c9f317cae1841ded35073d32c8a6cfab0e6e
+SHA256: 2578f31de95efe341b8d83a251aa2e3aa5a1bfbea400cdbdd9affe624a9b5dc6
+Section: Tweaks
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
+
+Package: com.opa334.ccsupport
+Version: 1.3.13-2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 489
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: debs/com.opa334.ccsupport.deb
+Size: 93680
+MD5sum: ec92fc6e31fbfc57094a8f8de10fe5e2
+SHA1: 9f9875ef1922c7ed789f1473fe6f508cb40b9275
+SHA256: 25db9f39d9dfdcddf0a358654eef95f904d8394d6cd204783ffd2de243e546f4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: Support tweak for CC modules!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/com.opa334.choicy.deb
+Size: 104702
+MD5sum: f93895c1e4cd1022da50a49bf615e31b
+SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
+SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
+Package: com.pantsthief.flexing
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3020
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: debs/com.pantsthief.flexing.deb
+Size: 1092364
+MD5sum: 66dcbfe4392fdabe562613812592cd67
+SHA1: ff5e80cda20c2f3564ba1cda897ef00634c86b36
+SHA256: 19fac7e0c693f787981f1323fcd414dc32fafe3ece585152bce7065f3098593c
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.ryannair05.cask3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 862
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: debs/com.ryannair05.cask3.deb
+Size: 380052
+MD5sum: 1265452233202d1e9238f2072f49755c
+SHA1: 892f5bac9f955a6c709556ef7b403a40965f93fc
+SHA256: b318a3216c360532841a6f2b2b23aa205af96c636c545047cb867ee3998d9879
+Section: Tweaks
+Description: Animated table scrolling
+Tag: compatible_min::ios14.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cask-3
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Name: Cask 3
+
+Package: com.ryannair05.cylinder
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Filename: debs/com.ryannair05.cylinder.deb
+Size: 318202
+MD5sum: 59acc824cada830ad33735cccc883edf
+SHA1: b4debc422f0b576e5f00c90a2f4a55c0407327a6
+SHA256: cb0fcc175ab13d0f7a42c75c71cdf94036ae5aabc53d23b5f1bdf91975a3f971
+Section: Tweaks
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+
+Package: com.spark.snowboard
+Version: 1.5.26-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3236
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/com.spark.snowboard.deb
+Size: 1408626
+MD5sum: 11c73af47067c40276e29304265f1491
+SHA1: d93c6c564ae602ba9842346c3461491875ec2572
+SHA256: 8a0087e33948e7117474fd3083abcbd91caf00d7c22946f4a529da7ae3b37d99
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: com.xandesign.felicitypro
+Version: 4.1
+Architecture: iphoneos-arm64
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Replaces: com.xandesign.felicitypro (= 3.3)
+Filename: debs/com.xandesign.felicitypro.deb
+Size: 23791740
+MD5sum: 702214e265db0d289ff326265534f133
+SHA1: 3851e9811d363e3eb3e663bb8eebf4b719e2c05f
+SHA256: 5062393683b837221a22b073981035b9ed8b946067847e44ef0db104ff2d67d6
+Section: Themes
+Homepage: https://twitter.com/xerusdesign
+Description: a more colorful & detailed look for iOS
+Author: XerusDesign <unixdesignios@gmail.com>
+Name: Felicity Pro
+

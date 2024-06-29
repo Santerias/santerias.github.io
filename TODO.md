@@ -1,0 +1,2 @@
+- [ ] Make another version of repo.sh but for Windows without the need of WSL, file should either be .ps1 or .bat
+- [ ] Add `CydiaIcon.png` and make sure its size is 64x64 or 128x128

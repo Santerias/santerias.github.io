@@ -1,0 +1,11 @@
+Package: com.hoangdus.speedster
+Section: Tweaks
+Installed-Size: 380
+Maintainer: Hoangdus
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Depends: firmware (>= 13.0)
+Description: Faster iOS animation.
+Name: Speedster
+Author: Hoangdus
+

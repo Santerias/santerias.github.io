@@ -1,0 +1,15 @@
+Package: com.ryannair05.cask3
+Section: Tweaks
+Installed-Size: 862
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Replaces: com.ryannair05.cask2
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Description: Animated table scrolling
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cask 3
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Depiction: https://chariz.com/get/cask-3
+Tag: compatible_min::ios14.0
+
